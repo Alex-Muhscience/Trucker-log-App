@@ -1,6 +1,6 @@
 # 🚚 TruckRoutePlanner
 
-![TruckRoutePlanner Banner](https://via.placeholder.com/1200x300.png?text=TruckRoutePlanner+-+Plan+Your+Trip+with+Ease)
+![TruckRoutePlanner Banner](banner.jpg)
 
 A modern full-stack application built with **Django** and **React** to help truck drivers plan trips, visualize routes, and generate FMCSA-compliant Driver's Daily Logs. This app ensures compliance with Hours of Service (HOS) regulations while providing a sleek, user-friendly interface.
 
